@@ -7,6 +7,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm fluent in several languages - including English and JavaScript.
 
-![Joao's github stats](https://github-readme-stats.vercel.app/api?username=bored-user&count_private=true&show_icons=true)
-
-
+![Joao's github stats](https://github-readme-stats.vercel.app/api?layout=compact&theme=react&username=bored-user&count_private=true&show_icons=true)
+![Joao's github stats](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&theme=react&username=bored-user&count_private=true&show_icons=true)
+![Joao's github stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=react&username=bored_user&count_private=true&show_icons=true)
